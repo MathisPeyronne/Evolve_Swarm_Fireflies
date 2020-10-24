@@ -11,6 +11,18 @@ A genetic algorithm which applies its selective pressure at the level of the gro
 
 ## Proof of concept: evolve swarm of fireflies blinking in unison
 
+<p align = "center">
+<img src="img/img6.jpg" height="246px">
+</p>
+
+<p align = "center">
+<img src="img/img6.jpg" height="50px"> <img src="img/img6.jpg" height="50px"> <img src="img/img6.jpg" height="50px">
+<br>
+<img src="img/img6.jpg" height="50px"> <img src="img/img6.jpg" height="50px"> <img src="img/img6.jpg" height="50px">
+<br>
+<img src="img/img6.jpg" height="50px"> <img src="img/img6.jpg" height="50px"> <img src="img/img6.jpg" height="50px">
+</p>
+
 ### Context
 Each swarm has 40 fireflies and each fireflie has 8 neighbors. Each firefly is a neural network that has 1 input neuron(taking the clock of the neighbor who blinked), two hidden layers of 16 nodes each and 1 output neuron(which gives the update to the internal clock of the firefly).
 
