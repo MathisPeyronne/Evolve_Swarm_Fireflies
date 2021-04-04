@@ -55,5 +55,5 @@ It works :) After 100-150 generations, the best fireflies are very well synchron
 - To evolve best swarm: ```python main.py```
 - To animate best swarm: ```python Animate_best_swarm.py```
 
-If you have any further questions, let me know MathisP_public@protonmail.com :)
+If you have any further questions, let me know MathisP_public@outlook.com :)
 
